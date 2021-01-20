@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71626d18-b6fa-4316-9364-12c5742014c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NM_ERP/erp_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NM_ERP/lesson7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/testData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_resulte.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/python_lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/python_lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,9 +76,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_resulte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webDemo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_resulte.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.test_resulte" />
         <item itemvalue="Python.lesson7" />
       </list>
     </recent_temporary>
@@ -101,37 +119,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="175" key="GridCell.Tab.0.bottom" timestamp="1603692562933">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1607305179885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603692562933" />
-    <state width="1515" height="175" key="GridCell.Tab.0.center" timestamp="1603692562933">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607305179885" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1607305179885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603692562933" />
-    <state width="1515" height="175" key="GridCell.Tab.0.left" timestamp="1603692562933">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607305179885" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1607305179885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603692562933" />
-    <state width="1515" height="175" key="GridCell.Tab.0.right" timestamp="1603692562933">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607305179885" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1607305179885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603692562933" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607305179885" />
     <state x="455" y="109" key="SettingsEditor" timestamp="1603690194543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="455" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603690194543" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1603691926500">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1607305078001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603691926500" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1607305078001" />
+    <state x="530" y="124" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603693738432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="124" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1603693738432" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/run.py</url>
-          <line>15</line>
+          <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
